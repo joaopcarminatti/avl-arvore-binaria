@@ -15,13 +15,13 @@ Computação — PUCPR. Profa. Lisiane Reips.
 ## Resolução
 
 ### Inserções (1.1 a 1.11)
-![Inserções, primeira parte](img/01-insercoes-55-a-15.jpg)
+![Inserções, primeira parte](01-insercoes-55-a-15.jpeg)
 
 ### Inserções (1.12 a 1.19)
-![Inserções, segunda parte](img/02-insercoes-4-a-88.jpg)
+![Inserções, segunda parte](02-insercoes-4-a-88..jpeg)
 
 ### Remoções
-![Remoções](img/03-remocoes.jpg)
+![Remoções](03-remocoes.jpeg)
 
 ## Rotações realizadas
 
